@@ -14,7 +14,7 @@
 #    License for the specific language governing permissions and limitations
 #    under the License.
 
-pkgs="prettytable-0.7.2.tar.gz requests-2.13.0.tar.gz"
+pkgs="setuptools-19.6.2.tar.gz prettytable-0.7.2.tar.gz requests-2.13.0.tar.gz"
 
 for pkg in $pkgs
 do

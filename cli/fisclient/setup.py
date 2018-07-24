@@ -22,6 +22,7 @@ FPGA image management together in a single shell'''
 requires = [
     'requests==2.13.0',
     'prettytable==0.7.2',
+    'setuptools==19.6.2',
 ]
 
 setup(
