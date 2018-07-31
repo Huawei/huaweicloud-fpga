@@ -37,9 +37,12 @@ For other environments, availability is not ensured.
 
 - Step 3. Run the `bash install.sh` command to install **fisclient**.
 
+> After installing fisclient, please configure and run fisclient as **root**.
+
 <a name="configuration"></a>
 # 3 Configuring fisclient #
 Run the `fis configure` command to configure **fisclient**.
+- Please configure fisclient as **root**.
 - Ensure that the metadata can be accessed from your ECS. For more details, see the **Prerequisites** section in the [Managing ECS Metadata](https://support.huaweicloud.com/en-us/usermanual-ecs/en-us_topic_0042400609.html).
 - **fisclient** will configure private DNS for your ECS. For more details about private DNS, see [The Private DNS Server Provided by HUAWEI CLOUD DNS](https://support.huaweicloud.com/en-us/dns_faq/dns_faq_002.html).
 
