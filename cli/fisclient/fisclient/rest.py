@@ -37,7 +37,7 @@ import utils
 requests.packages.urllib3.disable_warnings()
 
 timeout = 60
-cert_verify = True
+cert_verify = False
 
 
 # error message
