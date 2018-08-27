@@ -52,7 +52,7 @@ SDAccel HDK主要完成SDAccel开发流程的编译和仿真部分，需要在SD
 4. 编译example。
    ```
    cd $HW_FPGA_DIR/hardware/sdaccel_design/examples/mmult_hls/scripts
-   sh compile.sh compile_mode
+   sh compile.sh <compile_mode>
    ```
 
 ##### 说明:
